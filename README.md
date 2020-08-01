@@ -17,6 +17,8 @@ For Oh My ZSH:
 git clone --depth=1 https://github.com/LanikSJ/zsh-theme.git ${ZSH_CUSTOM:-$HOME/.oh-my-zsh/custom}/themes/laniksj-zsh-theme
 ```
 
+Set `ZSH_THEME="laniksj-zsh-theme/laniksj"` in `~/.zshrc` to activate.
+
 ## Bugs
 
 Please report any bugs or issues you find. Thanks!
